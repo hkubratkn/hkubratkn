@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Hatice Kubra 👋
 
-<!--
-**hkubratkn/hkubratkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Android developer.
 
-Here are some ideas to get you started:
+## My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kubra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubratkn)
+
+
+## Social 📱
+You can find me on the following social media platforms or send me an email:
+* 👔 [LinkedIn](https://www.linkedin.com/in/kubratkn)
+* 💻 [Google Play](https://play.google.com/store/apps/dev?id=5361596694976613553&hl)
+* ✉️ [kubra42311@gmail.com](mailto:kubra42311@gmail.com)
