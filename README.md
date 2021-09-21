@@ -1,6 +1,6 @@
 # Hi, I'm Hatice Kubra 👋
 
-I am an Android developer.
+I am an Android developer. I specialize Kotlin. I am developing apps with firebase in social category. I use android jetpack and mvvm.
 
 ## My GitHub Stats
 
