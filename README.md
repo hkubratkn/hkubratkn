@@ -9,5 +9,4 @@ I am an Android developer. I specialize Kotlin. I am developing apps with fireba
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
-* 👔 [LinkedIn](https://www.linkedin.com/in/hkubratkn)
 * ✉️ [hkubratkn@gmail.com](mailto:hkubratkn@gmail.com)
